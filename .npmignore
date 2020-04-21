@@ -1,0 +1,6 @@
+.idea
+.github
+/config
+/test
+/src
+tsconfig.json
